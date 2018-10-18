@@ -35,6 +35,8 @@
   --font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
+
+
 *,
 *::before,
 *::after {
@@ -53,7 +55,6 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
 }
 html::after {
   content: "";
@@ -74,7 +75,7 @@ html::after {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
-.body {
+body {
   margin: 0;
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1rem;
@@ -82,16 +83,15 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  /* background-color: rgba(0, 0, 0, 0.2); */
   width: auto; 
-  height: auto; 
-  /* padding-top: 50px; */
+  height: auto;
+  max-width: 1500px;
   }
 
 .body-background{
-    opacity: 0.6;
+    opacity: 0.4;
     position: fixed;
-    width: 1500px; 
+    width: 2000px; 
     z-index: -1; 
   }
 
@@ -216,7 +216,11 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+}
+  @media(max-width: 1000px) { 
+    .img .imageRight{ display: none;}}
+
 
 #imageContainer {
   width: 35%;
@@ -236,6 +240,8 @@ img {
   /* border: solid;
   border-color: #66ff00; */
 }
+@media(max-width: 1000px) { 
+  .img .imageRight{ display: none;}}
 
 svg:not(:root) {
   overflow: hidden; }
