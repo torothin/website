@@ -67,6 +67,7 @@ html::after {
   width: 100%;
   position: fixed;
   z-index: -1;   
+  background-size: 100% 110%;
 }
 
 @-ms-viewport {
@@ -86,13 +87,6 @@ body {
   width: auto; 
   height: auto;
   max-width: 1250px;
-  }
-
-.body-background{
-    opacity: 0.4;
-    position: fixed;
-    width: 2000px; 
-    z-index: -1; 
   }
 
 [tabindex="-1"]:focus {
