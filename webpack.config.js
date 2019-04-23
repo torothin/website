@@ -5,9 +5,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/website/'
-        : '/',
+    publicPath: '',
     filename: 'build.js'
   },
   module: {

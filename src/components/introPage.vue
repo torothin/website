@@ -8,7 +8,7 @@
         <div class="jumbotron">
             
             <h1>Heyo, my name is Brad Duvall</h1>
-            <p></p>
+            <p>v1.1</p>
             <hr class="my-4">
             <div class="rightImageContainer">
                 <img class="imageRight" src="../assets/images/Brad_Camp_Muir.jpg" alt="Me!!"> 
