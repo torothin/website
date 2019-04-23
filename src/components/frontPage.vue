@@ -65,7 +65,7 @@ export default {
   /* z-index: 300;  */
   width:100%;
 
-  background-image: url(../assets/images/IMG_2417.jpg);
+  background-image: url(/Users/bradduvall/Documents/Homepage/webpage_rework/src/assets/images/IMG_2417.jpg);
   opacity: 0.6;
   height: 100%;
   background-size: 120%;
