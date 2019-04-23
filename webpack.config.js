@@ -4,9 +4,8 @@ var webpack = require('webpack')
 module.exports = {
   entry: './src/main.js',
   output: {
-    // path: path.resolve(__dirname, './dist'),
     path: path.resolve(__dirname, './dist'),
-    publicPath: "/website/",
+    publicPath: '/dist/',
     filename: 'build.js'
   },
   module: {
@@ -31,7 +30,6 @@ module.exports = {
         loader: 'babel-loader',
         exclude: /node_modules/
       },
-      
       {
         test: /\.(png|jpg|gif|svg)$/,
         loader: 'file-loader',

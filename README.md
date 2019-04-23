@@ -1,6 +1,6 @@
-# website2
+# webpage_rework
 
-> new website using vue
+> A Vue.js project
 
 ## Build Setup
 
