@@ -111,10 +111,6 @@ export default {
                     location: 'src/assets/images/IMG_2196.jpg'
                 },
                 {
-                    footer: 'Japanese Garden, Portland, Oregon',
-                    location: 'src/assets/images/Portland_Background.jpg'
-                },
-                {
                     footer: 'Cooper River, WA',
                     location: 'src/assets/images/IMG_2417.jpg'
                 },
