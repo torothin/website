@@ -24,7 +24,7 @@
             <p>Our dog, Major, is a well behaved, shy, Boxer mix. We rescued her from PAWS in Lynnwood, WA in December of 2017. Major has been a challenge because of her shyness and skittishness. We have managed to get her out of her shell and regularly take her to a dog park where she meets new dogs and people. Originally, we believed she was a Black Mouth Cur but the DNA test showed her as mainly a boxer with a little bit of Australian Cattle Dog, Border Collie and Shetland Shepherd.</p>
         
             <div class="bottomImageContainer">
-                <img class="imageRight" src="../assets/images/IMG_1151.jpg">
+                <img class="imageRight" alt="dog" src="../assets/images/IMG_1151.jpg">
                 </div>
 
             </div>
@@ -45,7 +45,11 @@
                 <li v-for='(image,index) in images' :key='index' v-on:click='toggleModal(index)'>
                     <div class="card" >
                         <div class="card-body">
-                            <img class="card-img" v-bind:id="index" v-bind:src='image.location'/>
+                            <img 
+                                class="card-img" 
+                                v-bind:alt='image.footer' 
+                                v-bind:id='index'
+                                v-bind:src='image.location'/>
                             </div>
                         <div class="card-footer">{{image.footer}}</div>
                         </div>
