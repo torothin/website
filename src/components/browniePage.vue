@@ -23,7 +23,8 @@
                 <img class="imageRight" src="../assets/images/browniepointsimage.png"> 
                 </div>
             <div class='linkCont'>
-                <a target="_blank" rel="noopener noreferrer" href="https://torothin.github.io/browniepoints/">Brownie Points App Link (opens in a new tab)</a>
+                <a target="_blank" rel="noopener noreferrer" href="https://torothin.github.io/browniepoints/">(Vue Version) Brownie Points App Link (opens in a new tab)</a>
+                <a target="_blank" rel="noopener noreferrer" href="https://torothin.github.io/browniepointsv4/">(React Version) Brownie Points App Link (opens in a new tab)</a>
             </div>
             </div>
 
