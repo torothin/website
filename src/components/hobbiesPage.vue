@@ -10,19 +10,14 @@
             <hr class="my-4">
             
             <p class="lead">Martial Arts</p>
-            <p>All of my life I have wanted to do some form of martial art.  Around 2014 I finally decided to give it a try. My wife and I decided to try a self defense class that was designed around using Wing Chun (see IP Man) as a base. Three years later and I get my first Black Belt equivalent.</p>
+            <p>All of my life I have wanted to do some form of martial art.  Around 2014 I finally decided to give it a try. My wife, at the time, and I decided to try a self defense class that was designed around using Wing Chun (see IP Man) as a base. Three years later and I get my first Black Belt equivalent.</p>
             <p>While learning Wing Chun I was introduced to Muay Thai (Thai Boxing) and fell in love. The sport provided a wonderful workout and was very challenging. I moved to Alpha Martial Arts where I learn from Kru Alberto Ramirez at Chaisai Muay Thai where I currently hold a green sash. I also study a bit of Escrima and would like to try Kenjitsu and BJJ in the future.</p>
             <p class="lead">Hiking and Camping</p>
-            <p>A summer hobby that my wife and I enjoy is to go hiking. We regularly head out toward Darrington, WA to explore the many hiking trails. Our most difficult hike to date was the hike to Camp Muir on Mt Rainier.  A few buddies and I regularly go camping in the off seasons around Roslyn and Lake Cle Elum.</p>
+            <p>A summer hobby that I enjoy is to go hiking. We regularly head out toward Darrington, WA to explore the many hiking trails. Our most difficult hike to date was the hike to Camp Muir on Mt Rainier.  A few buddies and I regularly go camping in the off seasons around Roslyn and Lake Cle Elum.</p>
             <p class="lead">Gaming</p>
-            <p>I spend some of my free time playing games on my PC. I enjoy MMORPGs and RPGs such as World of Warcraft and Skyrim. My wife and I enjoy the challenge of end game content in groups several nights a week.</p>
-            <div class="rightImageContainer">
-                <img class="imageRight" src="../assets/images/IMG_1151.jpg">
-                </div>
-            <p class="lead">Doge</p>
-            
-            <p>Our dog, Major, is a well behaved, shy, Boxer mix. We rescued her from PAWS in Lynnwood, WA in December of 2017. Major has been a challenge because of her shyness and skittishness. We have managed to get her out of her shell and regularly take her to a dog park where she meets new dogs and people. Originally, we believed she was a Black Mouth Cur but the DNA test showed her as mainly a boxer with a little bit of Australian Cattle Dog, Border Collie and Shetland Shepherd.</p>
-        
+            <p>I spend some of my free time playing games on my PC. I enjoy MMORPGs and RPGs such as World of Warcraft and Skyrim. </p>
+            <p class="lead">Shooting</p>
+            <p>Several years ago I started taking gun safety classes.  I started with the basics of a 101 class and have moved to more advanced classes.  Prior to working at Guidewire, I worked at a local gun range where I learned a great deal about gun safety.  I am slowly working up to competing in some local shooting competitions </p>
             <div class="bottomImageContainer">
                 <img class="imageRight" alt="dog" src="../assets/images/IMG_1151.jpg">
                 </div>

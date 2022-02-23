@@ -11,6 +11,12 @@
                 <img class="imageRight" src="../assets/images/jobicon.png">
                 </div>
         
+            <p class="lead">Guidewire Software (2021-Present)</p>
+            
+            <p>After some time of looking for developer work I began working at Guidewire Software.  Guidewire has given me the opportunity to learn aspects of AWS Cloud Platforms.  Guidewire Software has been in the business of Insurance Software and has moved from On-Premise licensing to AWS Hosted Platforms.  Part of the job is to handle tickets and bugs reported by the customer as L2 support.  To handle on-prem tickets, I certified in Guidewires on-prem versions of BillingCenter learning SQL and Gosu, a version of Java.  My next certification will be Guidewires Digital Products Suite.  These products are Front-End centric using Angular and React Javascript libraries.
+
+            </p>
+
             <p class="lead">B/E Aerospace (2015-2016)</p>
             
             <p>I joined B/E Aerospace - ALCI as a Materials and Process Engineer. I was part of Materials team which maintained process specifications for manufacturing, testing, and fire properties. I wrote several test plans for new polymers, polymer suppliers and manufacture’s. Every test plan and specification was thoroughly checked by our customers (Boeing) to ensure quality of the product.
