@@ -29,6 +29,11 @@ module.exports = {
         loader: 'babel-loader',
         exclude: /node_modules/
       },
+      // {
+      //   test: /\.js$/,
+      //   loader: 'babel-loader',
+      //   include: [path.join(__dirname, '/src'), resolve('src'), resolve('test')]
+      // },
       {
         test: /\.(png|jpg|gif|svg)$/,
         loader: 'file-loader',
